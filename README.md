@@ -34,11 +34,22 @@
 
 #
 
-### 📺 Latest Project 
+### 📺 Latest Projects
 
-<!-- BEGIN PROJECT-CARDS -->
+* **TinyTrack: Digital Baby Wellness and Growth Platform**
+    * [cite_start]**Tech Stack:** Laravel, MySQL [cite: 47]
+    * [cite_start]**Description:** Developed a web application for parents to monitor baby growth metrics (weight, height, head circumference)[cite: 48].
+    * [cite_start]**Key Features:** Designed interactive data visualizations and implemented milestone tracking and vaccination reminders[cite: 49, 50].
 
-<!-- END PROJECT-CARDS -->
+* **Tourista: Tour Management System**
+    * [cite_start]**Tech Stack:** Laravel, MySQL [cite: 51]
+    * [cite_start]**Description:** Developed a tour booking and scheduling system that improved efficiency by automating manual management processes[cite: 52, 54].
+    * [cite_start]**Key Features:** Designed user authentication and role-based access using Laravel Jetstream[cite: 53].
+
+* **Tableau Analytics Project: Impact of State Poverty on Malaysia’s Economic Growth**
+    * [cite_start]**Tech Stack:** Tableau, Excel [cite: 55]
+    * [cite_start]**Description:** Designed interactive Tableau dashboards featuring various charts (bar charts, heatmaps, pie charts)[cite: 56].
+    * [cite_start]**Goal:** Uncovered correlations between economic performance and absolute/relative poverty levels[cite: 56].
 
 
 <!--<details>
