@@ -1,4 +1,4 @@
-# 🏄‍♂️ Ammar Haziq Bin Zainal
+<h1 align="center"># 🏹 Ammar Haziq Bin Zainal</h1>
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/27df5ce3-5654-421e-97c8-310be0acee25" />
 **`Developer and Business Analyst`**
 
