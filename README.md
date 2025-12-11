@@ -3,7 +3,7 @@
 
 **`Web Developer and Business Analyst`**
 
-<p align="justify">I am an Indie Full-Stack Developer powered by Laravel and a dedicated Business Analyst/Data Analyst. I am not just building applications, I am crafting my vision of the digital world, driven by the purpose of solving real life problems. Every line of code and every piece of data analysis is a deliberate step from the initial spark of an idea to its deployment as a functional solution. I am relentlessly curious, continuously learning to develop next-generation software, and committed to unlocking the true potential of real-world business data to make truly impactful, informed decisions.</p>
+<p align="justify">I am an Indie Laravel Full-Stack Developer and a dedicated Business Analyst/Data Analyst. I am not just building applications, I am crafting my vision of the digital world, driven by the purpose of solving real life problems. Every line of code and every piece of data analysis is a deliberate step from the initial spark of an idea to its deployment as a functional solution. I am relentlessly curious, continuously learning to develop next-generation software, and committed to unlocking the true potential of real-world business data to make truly impactful, informed decisions.</p>
 
    <p align="left">
       <a href="https://github.com/marziq?tab=followers">
